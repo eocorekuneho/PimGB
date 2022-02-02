@@ -32,3 +32,5 @@ The software reads from /dev/midi1 (at the time) and bitbangs the data to the Ga
 
 THIS IS REALLY REALLY WIP.
 A snapshot of the code.
+
+Also, the code may be completely garbage. This is my first C code in 10 years, haven't touched it since then.
